@@ -133,19 +133,19 @@ Finance-Analysis
 ├── README.md
 
 ## How to Run the Project
-1. Clone the repository
+1 Clone the repository
 
-    git clone https://github.com/your-username/Finance-Analysis.git
+    git clone https://github.com/RitikDevrani/Finance-Analysis.git
 
-2. Navigate to the project folder
+2 Navigate to the project folder
 
     cd Finance-Analysis
 
-3. Install required libraries
+3 Install required libraries
 
     pip install pandas numpy matplotlib seaborn
 
-4. Run the notebook
+4 Run the notebook
 
     jupyter notebook
 
